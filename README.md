@@ -23,12 +23,12 @@
 
 ---
 
-## 📷 界面展示
+## 📹 界面展示
 
 <div align="center">
-  <img src="screenshots/主界面.png" width="30%" alt="主界面"/>
-  <img src="screenshots/导入功能.png" width="30%" alt="导入功能"/>
-  <img src="screenshots/指南针.png" width="30%" alt="指南针"/>
+  <video src="docs/videos/指南针功能演示效果.mp4" width="32%" controls muted loop playsinline></video>
+  <video src="docs/videos/音乐卡片功能演示效果.mp4" width="32%" controls muted loop playsinline></video>
+  <video src="docs/videos/薰衣草壁纸阅读效果.mp4" width="32%" controls muted loop playsinline></video>
 </div>
 
 > 更多演示视频见 [docs/videos](./docs/videos)。
